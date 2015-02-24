@@ -10,8 +10,8 @@
     "type": "git",
     "url": "https://github.com/h-line/vuokrakilke.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Entropy Ry",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/h-line/vuokrakilke/issues"
   },
