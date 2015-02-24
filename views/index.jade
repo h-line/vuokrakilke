@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1 Vuokrakilke 2.0
+  p Username: 
+    span= user.username
+  p Email: 
+    span= user.email
+  p ID: 
+    span= user._id
+  a(href='/logout') Logout
